@@ -35,3 +35,13 @@ Pseudocode
 	-Description of the algorithm that uses natural lenguage
 Iteration
 	-repetition, forever repeat, infinite loops
+
+Exercices 
+Cat that mover and changes color
+https://scratch.mit.edu/projects/630358166
+Dance party remix
+https://scratch.mit.edu/projects/630936205
+Cloudy Day
+https://scratch.mit.edu/projects/630936654
+Talking 
+https://scratch.mit.edu/projects/630938503
