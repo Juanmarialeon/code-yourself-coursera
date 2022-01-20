@@ -1,0 +1,37 @@
+Unidad 1
+
+Algorithm - seguir una serie de instrucciones paso a paso. An ordered sequence of steps for carrying out tasks
+
+-check what assumptions we make when designing an algorithm
+
+1- brush your teeth
+2 draw a kite
+
+1
+	1. Take your toothbrush
+	2. Take your toothpaste
+	3. Open your toothpaste
+	4. Place your toothbrush horizontally and with the brush facing up
+	5. Push the toothpaste into the toothbrush until the brush is full with it
+	6. Put the toothbrush into your mouth
+	7. Brush your teeth up and down in the frontal teeth
+	8. Brush your teeth in circles in the lateral teeth
+	9. Bash your toothbrush
+	10. Bash your mouth
+2 
+	1. Draw a cross
+	2. Draw a Line from the end of each Line that connects to the consecutive other
+	3. Add and S shape Line that starts at the bottom of the Monges Line in your cross
+
+
+For programming we´ll use the SCRATCH website
+Scratch.mit.edu
+
+Concepts:
+Selection (if)
+	-This works with true or false statements
+	- Involves the use of conditions to control the flow of the programm and make decisions
+Pseudocode
+	-Description of the algorithm that uses natural lenguage
+Iteration
+	-repetition, forever repeat, infinite loops
