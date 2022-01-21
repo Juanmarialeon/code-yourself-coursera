@@ -1,0 +1,12 @@
+Razonamientos para responder cada pregunta
+
+1. Algorithm as the process of following steps to set to a result
+2. Sequence - order, Selection - if, iteration - loop
+3. It makes a T
+4. Wash your hands
+5. That rotación style did not appear in my scrath, however by process of elimination de circular Arrow turned the cat upside down, and the two Side Arrow turned it from right to left.
+6. None of the options "jumped" a step. Even the shortest one that confused me has because in the diagrame always Took the "no" option.
+7. The right Oinidcation is "change" and is the only logical order that corresponds to the pseudocode
+8. transforming the program to pseudocode, it shows how th program would reset the position every time it touches the edge
+9. In the cuadrant, right top is x positive and y positive. And the Block direction is positive right, megative left.
+10. Tim Waits in silence 3 seconds then talks for 2, Lucy talks for 3 seconds. Once Lucy is over, Tim would just start talking
