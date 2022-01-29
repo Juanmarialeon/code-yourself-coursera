@@ -1,0 +1,50 @@
+
+Loops
+Count control- repeat a specific Number of times. Repeat block
+Condition control loop- it repeats until a condition changes. They have true and false conditions
+
+Karaoke
+
+
+How to draw a square:
+Elegantly
+Repeat x4
+Draw a Line for 10 steps
+Turn 90 degrees to de right
+
+Instead od drawing each line individually
+
+B-day card
+In a big program you should divide the tasks to achive one at a time
+	Buterfly dialogue
+	Flying butterfly
+	Cake candles
+
+It mas used a when... block (control block), An if wouldn't work because (condition block)
+
+If, then, else block
+If (condition) is true then the butterfly says ..., if not then...
+
+THE GAME
+Decompose it (design) and sketch the interface
+	Initialisation- turn video on, set transparency to desurde level, switch costume to apple
+	Game Progress- place fruit on screen, wait until fruit is cut, switch costume to cut, switch costume to next entire fruit.
+
+Events
+	Things that happen. There is event priven programan, where it Waits an event for something that happen.
+
+Softwear interface
+-Be clear about your softwear requirements (the goals, constrains and services of the software)the what? Write it down so hits always clear and you dont set Lost on details
+-Abstraction- Focusing on the important aspects of the Problem 
+-Always design your program on paper. The how?
+	design - Sprite, backdrop, events. How it should look, work, interact. Is it clear? Easy?
+		Breaking it down in samller parts and write it in pseudocode.
+	implementation
+Exercices
+https://scratch.mit.edu/projects/633723003
+https://scratch.mit.edu/projects/633773403
+https://scratch.mit.edu/projects/633779254
+https://scratch.mit.edu/projects/634321428
+https://scratch.mit.edu/projects/635173402
+
+
