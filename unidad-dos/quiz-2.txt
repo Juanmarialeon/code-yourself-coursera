@@ -1,0 +1,10 @@
+1. Se caminan 100 pasos y luego se repite la acción 3 veces de caminar 100 mas. Es decir 400
+2. Al preguntar si es suficiente azúcar, "suficiente" puede significar cero
+3. Por el orden del programa, el 1 y 2 son equivalentes pero el tercero tiene otro orden
+4. La dirección cero es hacia arriba y la 90 a la derecha
+5. Necesita un valor de transparencia mas alto
+6. Todas son cosas que se pueden programar
+7. No son equivalentes porque en una hay una decisión de si pasa algo o no, en la otra, pase o no pase el tocar rosa, el sonido si va a sonar
+8. Todo se puede programar
+9. Es simplificar conceptos
+10. Hay que indicar la dirección y la cantidad de pasos
