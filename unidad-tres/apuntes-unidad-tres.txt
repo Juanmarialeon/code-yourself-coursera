@@ -1,0 +1,37 @@
+Variable
+Space in the computer memory where we can hold info used by our program
+	-have name and value asociated with them
+	-labels that have info
+	-it allows to keep score, names, etc
+Local
+Only some elements can access to it
+Global
+Acceded by all program elements
+
+
+User documentation
+	-instructions, what is excpected for the user to do
+
+
+Technical documentation
+	- comments that explain certain parts of the program, hits good practice to add them
+
+Its important to verify the data that the user provides, to asure that the program works as it should
+EX- indícate to only answer with yes or no and invalidate and other answer
+
+AND, OR, NOT
+If both conditions are true, if one or the other condition is true, i this condiiton is not true
+
+ALWAYS TEST THE PROGRAM - debugging
+	test periodically in order to find the bugs
+Nested loops
+	one inside another
+
+Excercice
+https://scratch.mit.edu/projects/635173402
+https://scratch.mit.edu/projects/638593062
+https://scratch.mit.edu/projects/638611611
+https://scratch.mit.edu/projects/638617444
+https://scratch.mit.edu/projects/638628232
+https://scratch.mit.edu/projects/638642738
+https://scratch.mit.edu/projects/638628232
