@@ -1,0 +1,10 @@
+1.Esa es la definición de variable
+2.Esta destinado a quienes vean el código
+3.Son sinónimos de acciones. Todas hacen lo mismo
+4.la funcion se llama Pen down  y tiene que ser después del clear para que pinte cada movimiento desde el inicio pero se limpie cada que volvemos a empezar el programa
+5.
+6. Los goles > 5 significa que esa opción será si el usuario pone de 6 para arriba, golas >0 es de 1 para arriba y goals <6 de 5 para abajo, así si ponen 0 sí dura no goals
+7.los parámetros son de 1 a la respuesta del usuario.
+8.no ofrece la opción de volver a ingresar una respuesta, tendría que haber otro bloque azul de respuesta
+9.al poner el next costume entre los repeat, hace que se estampe 7 veces - se cambie el costume, y se estame 7 veces, y que esa acción se repita 4 veces
+10.siempre tienes que testear específicamente los resultados que estas poniendo a prueba
