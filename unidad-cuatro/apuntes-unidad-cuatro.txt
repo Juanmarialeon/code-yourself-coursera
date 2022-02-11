@@ -1,0 +1,30 @@
+Procedure- A section of a computer program that perforas a specific task and which can be used repeatedly
+
+
+You want the cat to jump, you first have to indícate what jump means (move up, then down)
+
+And the use when space bar preside-jump.
+You created the "jump" procedure
+
+You can re use it in another programs
+
+
+Parameter. A value that is passed to some procedure. If the procedure is to draw a Square, the parapetar is to así the lenght of the Side. It referente to the info that you fill
+
+Generalisation- modify a program so that it can be Applied to a wider range of related problems
+
+Que alguien revise si lo hice bien porque no se ve
+
+ Clone - lets us múltiple and change the behavior of all the clones sprites.
+
+Fireworks
+buble - modular code- we have separate componentes for diferentes parts of the program. Or well, the program is divided in different parts (buble creation, movement) each part has ints "own" code.
+
+ 
+Excercises
+https://scratch.mit.edu/projects/641191037
+https://scratch.mit.edu/projects/641198233
+https://scratch.mit.edu/projects/641206908
+https://scratch.mit.edu/projects/642233942
+https://scratch.mit.edu/projects/643093494
+https://scratch.mit.edu/projects/643094083

@@ -1,0 +1,10 @@
+1. La definición dice que se mueve 10 pasos, pero en el programa esa acción se repite 4 veces
+2. Si lo implementa correctamente
+3. Apunta primero a la derecha y luego hacia arriba. La definición solo hace que se dibuje un cuadrado
+4. Debería de moverse lo que el usuario ponga como respuesta
+5. Tiene que repetir la acción ya definida el numero de veces que el usuario diga
+6. Es la única que se ha usado
+7. Una codificación por cada componente
+8. Si la funcionalidad es igual conviene clonarlo, de lo contrario no
+9. Estampó block solo copia la imagen en forma de pixeles, no su funcionalidad
+10. Es su definición
