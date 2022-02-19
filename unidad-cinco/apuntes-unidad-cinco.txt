@@ -1,0 +1,16 @@
+Unidad 5
+
+Always Think about the requirements and interface design
+Think about the behaviour of the game. Decompose it. 
+
+Concurren process- process that aun simultanously
+Computacional complexity- compare different algorythms to choose the more conveniente
+
+Prototype- a model of the program to test it wothout the need to build it
+
+ Excercise
+https://scratch.mit.edu/projects/644789757
+Project
+https://scratch.mit.edu/projects/646445424
+Homework
+https://scratch.mit.edu/projects/647343442

@@ -1,0 +1,10 @@
+1. El orden adecuado es entender los requerimientos, diseñar el juego, implementar los comandos y testear para encontrar errores.
+2. Procesos que corren simultáneamente
+3. Para que siempre se cree uno en el loop y para que se elimine.
+4. Es la primera opción porque son simultáneos
+5. Esta también el waterfall aproach sonde simplificas
+6. Tiene que recibir el Broadcast para actuar
+7. Greater than 10. Si fuera igual tendría una linea debajo del >
+8. Que el usuario elija su personaje
+9. x=0 es el centro, ahí está la indicación
+10. Todas son opciones 
